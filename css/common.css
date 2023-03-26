@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a {
+  color:#fff;
+}
+a:hover{
+  color: #f90;
+}
+
+input::placeholder {
+  color: #fff;
+}

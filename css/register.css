@@ -1,0 +1,5 @@
+@import './login.css';
+
+.register .form{
+  height: 700px;
+}
